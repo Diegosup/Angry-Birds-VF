@@ -1,0 +1,12 @@
+D:\C#\AB\PHYSICS\bin\Debug\PHYSICS.exe.config
+D:\C#\AB\PHYSICS\bin\Debug\PHYSICS.exe
+D:\C#\AB\PHYSICS\bin\Debug\PHYSICS.pdb
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.csproj.AssemblyReference.cache
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.csproj.SuggestedBindingRedirects.cache
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.birds.resources
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.Form1.resources
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.Properties.Resources.resources
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.csproj.GenerateResource.cache
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.csproj.CoreCompileInputs.cache
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.exe
+D:\C#\AB\PHYSICS\obj\Debug\PHYSICS.pdb
